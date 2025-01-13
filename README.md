@@ -1,1 +1,1 @@
-# Airline-Management-System
+This project is build using Java Swing and AWT for GUI and MySql for database storage. It consists several modues for booking tickets, flight details , journey details, cancellation ,etc.# Airline-Management-System
